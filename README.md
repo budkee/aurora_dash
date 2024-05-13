@@ -1,11 +1,13 @@
-# Aurora Modas by Roseli Budke
+# Aurora Dash
 
-Projeto destinado à construção de uma loja virtual de roupas e serviços de costura.
+Projeto destinado à construção de um dashboard contendo os recursos da empresa personalizado à rotina da cliente.
 
-### Breafing do Projeto
+## Breafing do Projeto
+
 <a href="https://www.notion.so/budkee/Plano-de-a-o-3b41a8b3b70e4c2ca4a7b5c6a9483a42?pvs=4"><img align="" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"></a>
 
 - [Atividades e Tarefas](https://www.notion.so/budkee/d3b613aa024d442e9c71739b72a8e9f2?v=2c9a542a21ec4a46b219e8e694de50d2&pvs=4)
+- [Canal do Discord](https://discord.com/channels/1084233199451910194/1226636985142345880)
 
 ### Stack do projeto
 
